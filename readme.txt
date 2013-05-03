@@ -8,11 +8,11 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 短信通知(SMSNotice)是一款为中国移动飞信用户设计的wordpress监控插件。
-SMSNotice is WordPress monitor for CHINA MOBILE Fetion users. If your are not CHINA MOBILE user, pay attention to my blog: walkbird.1kapp.com, a new cool plugin working with WeChat is under planning.
 
 == Description ==
 
 This is a plugin designed for CHINA MOBILE users to monitor your WordPress. When certain event happen, user will receive a message.
+If your are not CHINA MOBILE user, pay attention to my blog: walkbird.1kapp.com, a new cool plugin working with WeChat is under planning.
 
 Warning: your need to offer your Fetion account password, it will be saved in wp_options table in WordPress database with your mobile phone number.
 
@@ -26,9 +26,8 @@ Features:
 * 2-step verification
 
 
-短信通知(SMSNotice)是一款为中国移动飞信用户设计的wordpress监控插件。当用户设定的事件发生时会第一时间发送短信给用户
-
-。
+短信通知(SMSNotice)是一款为中国移动飞信用户设计的wordpress监控插件。当用户设定的事件发生时会第一时间发送短信给用户。
+如果你不是中国移动飞信用户，欢迎关注我的博客：walkbird.1kapp.com，一款支持微信开放平台的插件正在规划中。预计8月中旬开放测试。欢迎提供建议。
 
 注意：由于短信是通过飞信发送的，故需要用户提供手机号和密码，手机号和密码明文存储在wordpress数据库的wp_options表中（
 
